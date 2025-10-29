@@ -120,6 +120,8 @@ La primera versión de LexiMind se centrará en las siguientes características 
 
 > Proporciona imágenes y/o videotutorial mostrando la experiencia del usuario desde que aterriza en la aplicación, pasando por todas las funcionalidades principales.
 
+https://leximind-ia.vercel.app/demo.html
+
 ### **1.4. Instrucciones de instalación:**
 
 Para instalar y ejecutar LexiMind en tu entorno local, sigue estos pasos:
